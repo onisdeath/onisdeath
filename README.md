@@ -1,0 +1,3 @@
+- i'm @onisdeath, or oni
+- i'm interested in full-stack web developing
+- i'm trying to learn html,css, and javascript
